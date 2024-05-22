@@ -105,7 +105,8 @@ The bar chart illustrates the count of different status groups for wells in Tanz
 
 ### Random forest
 
-![alt text](image-5.png)
+![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/1cd36bd1-a7ec-4d59-9158-25a21e1301f6)
+
 
 Cross-validation scores: [0.85742712 0.8510596  0.85354691 0.85195503 0.85046264]
 
