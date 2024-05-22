@@ -24,7 +24,9 @@ Research Objectives
 In an effort to enhance the management and sustainability of water resources, this research focuses on two key objectives.
 
 ## Major Decisions During Data cleaning
-![alt text](image.png)
+
+![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/1467d07f-95b2-4670-88a1-68592169df6d)
+
 
 •	To find out the geographical distribution of the three classes of water pumps, to help inform which regions need more attention in terms of repair, maintenance, and replacement.
 
@@ -74,31 +76,37 @@ Based on the map below, some points are not located in Tanzania. Tanzania is sit
 •	Management- management is a category of the management_group and hence it does not add value to the model
 
 # Exploratory Data Analysis (EDA)
+
 ## Water Source status in Tanzania
 
- ![alt text](image-1.png)
+![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/a1020511-df04-4f09-86aa-6f29d34bf32a)
+
 
 The above map shows the operational status of various water sources across the country. Functional water sources, marked in blue, are widely distributed throughout Tanzania, indicating a broad presence of operational water points. Non-functional water sources, shown in purple, are also prevalent and scattered across many regions, highlighting areas where water infrastructure might need attention or repair. Water sources that are functional but need repair, indicated in yellow, are similarly dispersed, often overlapping with regions containing both functional and non-functional sources. This distribution reveals areas of concern where maintenance and improvements are necessary to ensure reliable access to water. The map provides a comprehensive overview of the current status of water sources, aiding in identifying priority areas for infrastructure development and repair.
 
 ## Water Quality Distribution in Tanzania
 
- ![alt text](image-2.png)
+![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/6b61d347-3268-4efb-a7c8-6e7c75b3d35c)
+
 
 The map above shows the geographical spread of different water quality types across the country. Soft water sources, marked in blue, are widely distributed throughout Tanzania, indicating a broad presence of this water quality type. Salty water sources, shown in red, also have a significant presence, particularly in the eastern and northern regions. Unknown water quality sources, depicted in grey, are scattered but less frequent. Milky water sources, marked in purple, and coloured water sources, shown in orange, appear sporadically across the map. Salty abandoned sources, in brown, and fluoride water sources, in green, are less common but noticeable in specific areas. Fluoride abandoned sources, marked in pink, are the least frequent and appear in very few locations. This distribution highlights the variability in water quality across Tanzania and points to areas that may require targeted interventions for water quality improvement.
 ## Waterpoint Type Distribution in Tanzania
 
- ![alt text](image-3.png)
+![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/63cbf6bc-80d2-420f-b15d-4d63ad954e18)
+
 
 The map above illustrates the spatial distribution of various waterpoint types across the country. Communal standpipes, shown in dark blue, are widely scattered, indicating their prevalence in many regions. Hand pumps, marked in dark green, are also common and spread across different areas. The grey markers represent other waterpoint types, which are numerous and dispersed throughout Tanzania. Improved springs, indicated in teal, are less frequent and primarily located in specific regions. Cattle troughs, shown in dark orange, and dams, marked in dark red, are the least common waterpoint types, with only a few scattered locations. This map highlights the diverse distribution of waterpoint types, revealing where each type is predominantly used and potentially indicating regional preferences or needs for specific waterpoint infrastructure.
 ### Distribution of target 
 
- ![alt text](image-4.png)
+![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/7371c599-7aab-4fd0-ae4f-22cda0842653)
+
 
 The bar chart illustrates the count of different status groups for wells in Tanzania. The majority of wells are functional, with a count of approximately 27,000. Non-functional wells follow, with a count of around 19,000. The smallest group is wells that are functional but in need of repair, with a count of about 3,000. This distribution highlights the predominance of functional wells but also indicates a significant number of wells that are not operational or require maintenance.
 
 ### Random forest
 
 ![alt text](image-5.png)
+
 Cross-validation scores: [0.85742712 0.8510596  0.85354691 0.85195503 0.85046264]
 
 Mean cross-validation score: 0.8528902596756541
