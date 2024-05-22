@@ -103,7 +103,7 @@ The map above illustrates the spatial distribution of various waterpoint types a
 
 The bar chart illustrates the count of different status groups for wells in Tanzania. The majority of wells are functional, with a count of approximately 27,000. Non-functional wells follow, with a count of around 19,000. The smallest group is wells that are functional but in need of repair, with a count of about 3,000. This distribution highlights the predominance of functional wells but also indicates a significant number of wells that are not operational or require maintenance.
 
-### Random forest
+### Best Performing Model _ Random forest
 
 ![image](https://github.com/Mutendwa/Phase-3-Project/assets/151353695/1cd36bd1-a7ec-4d59-9158-25a21e1301f6)
 
