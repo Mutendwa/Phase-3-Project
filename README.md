@@ -2,8 +2,6 @@
 
 # Overview
 
-![Tanzania-xl.gif](attachment:Tanzania-xl.gif)
-
 Tanzania, officially the United Republic of Tanzania, is a country in East Africa within the African Great Lakes region. It boasts a rich tapestry of geographical features, bordering Uganda to the northwest; Kenya to the northeast; the Indian Ocean to the east; Mozambique and Malawi to the south; Zambia to the southwest; and Rwanda, Burundi, and the Democratic Republic of the Congo to the west. 
 Mount Kilimanjaro, Africa's highest mountain, stands proudly in northeastern Tanzania. With a population of nearly 62 million according to the 2022 national census, Tanzania is the most populous country located entirely south of the equator.
 Beyond its size and geographical diversity, Tanzania is a land of cultural richness. The country is home to over 120 ethnic groups, each with its own unique traditions and languages. Swahili, a Bantu language with Arabic influences, serves as the national language and lingua franca, uniting the people. 
